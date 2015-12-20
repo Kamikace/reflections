@@ -1,0 +1,3 @@
+git init para iniciar seguimiento de control de versiones (VC)
+
+git status para saber el estatus del VC
